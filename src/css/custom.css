@@ -15,6 +15,11 @@
   --ifm-color-primary-lightest: #99ccff;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docsearch-searchbox-background: #ffffff; /* Màu nền của khung tìm kiếm */
+  --docsearch-searchbox-shadow: inset 0 0 0 1px #e0e3e7; /* Thay shadow mặc định bằng viền mảnh */
+  --docsearch-searchbox-focus-background: #ffffff; /* Màu nền khi nhấp vào */
+  --docsearch-border-radius: 8px; /* Bo tròn các góc */
+  --docsearch-muted-color: #606770; /* Màu của phím tắt CTRL K */
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,6 +32,9 @@
   --ifm-color-primary-lighter: #99ccff;
   --ifm-color-primary-lightest: #cce6ff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --docsearch-searchbox-background: #2e3032;
+  --docsearch-searchbox-shadow: inset 0 0 0 1px #4d4d4d;
+  --docsearch-muted-color: #a9a9a9;
 }
 
 .center-container {
