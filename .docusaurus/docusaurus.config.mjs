@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Tài liệu HisPro BVXA",
-  "tagline": "Dinosaurs are cool",
+  "tagline": "Tài liệu hướng dẫn người dùng sử dụng HisPro BVXAl",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
