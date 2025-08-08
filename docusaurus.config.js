@@ -71,20 +71,20 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-//        items: [
-//          {
-//            type: 'docSidebar',
-//            sidebarId: 'tutorialSidebar',
-//            position: 'left',
-//            label: 'Tutorial',
-//          },
-//          { to: '/blog', label: 'Blog', position: 'left' },
+        items: [
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Hướng dẫn',
+          },
+          { to: 'https://hispro.truongit.net', label: 'Tải HisPro', position: 'left' },
 //          {
 //            href: 'https://github.com/facebook/docusaurus',
 //            label: 'GitHub',
 //           position: 'right',
 //          },
-//        ],
+        ],
      },
       footer: {
         style: 'dark',        
