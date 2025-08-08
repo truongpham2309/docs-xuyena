@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Tiếp đón bệnh nhân BHYT'
+sidebar_label: '3. Tiếp đón bệnh nhân BHYT'
 title: 'Tiếp đón bệnh nhân BHYT'
 sidebar_position: 3
 ---

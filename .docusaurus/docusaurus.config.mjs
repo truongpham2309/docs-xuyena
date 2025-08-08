@@ -66,12 +66,6 @@ export default {
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Hướng dẫn"
-        },
-        {
           "to": "https://truongit.net/hispro-xuyen-a#cuchi",
           "label": "Tải HisPro Củ Chi",
           "position": "left"

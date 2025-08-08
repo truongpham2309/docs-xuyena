@@ -1,6 +1,6 @@
 ---
-sidebar_label: 'Chỉnh sửa thông tin hành chính'
-title: 'Chỉnh sửa thông tin hành chính'
+sidebar_label: '8. Chỉnh sửa thông tin hành chính'
+title: 'Chỉnh sửa thông tin hành chính của bệnh nhân'
 sidebar_position: 8
 ---
 
