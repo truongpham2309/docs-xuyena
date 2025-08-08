@@ -57,7 +57,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/bvxa-social-card.jpg",
     "navbar": {
       "title": "Tài liệu HisPro BVXA",
       "logo": {
