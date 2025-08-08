@@ -1,7 +1,7 @@
 {
   "id": "phan-he-thu-ngan/xem-bang-ke-chi-phi",
   "title": "Xem bảng kê chi phí của bệnh nhân",
-  "description": "",
+  "description": "Nội dung...",
   "source": "@site/docs/02-phan-he-thu-ngan/11-xem-bang-ke-chi-phi.md",
   "sourceDirName": "02-phan-he-thu-ngan",
   "slug": "/phan-he-thu-ngan/xem-bang-ke-chi-phi",
@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 11,
   "frontMatter": {
-    "sidebar_label": "Xem bảng kê chi phí của bệnh nhân",
+    "sidebar_label": "11. Xem bảng kê chi phí",
     "title": "Xem bảng kê chi phí của bệnh nhân",
     "sidebar_position": 11
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Kiểm tra lịch sử giao dịch",
-    "permalink": "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich"
+    "title": "10. Lịch sử giao dịch",
+    "permalink": "/phan-he-thu-ngan/lich-su-giao-dich"
   },
   "next": {
-    "title": "Hủy giao dịch, in phiếu tương ứng",
-    "permalink": "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung"
+    "title": "12. Hủy giao dịch",
+    "permalink": "/phan-he-thu-ngan/huy-giao-dich"
   }
 }

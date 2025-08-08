@@ -1,7 +1,7 @@
 {
   "id": "phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan",
   "title": "Đăng nhập, chọn phòng thu ngân",
-  "description": "",
+  "description": "Nội dung...",
   "source": "@site/docs/02-phan-he-thu-ngan/01-dang-nhap-chon-phong-thu-ngan.md",
   "sourceDirName": "02-phan-he-thu-ngan",
   "slug": "/phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan",
@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_label": "Đăng nhập, chọn phòng thu ngân",
+    "sidebar_label": "1. Đăng nhập, chọn phòng thu ngân",
     "title": "Đăng nhập, chọn phòng thu ngân",
     "sidebar_position": 1
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "In lại phiếu khám",
-    "permalink": "/phan-he-don-tiep/in-lai-phieu-kham"
+    "title": "20. Báo cáo",
+    "permalink": "/phan-he-duoc-vat-tu/bao-cao-duoc"
   },
   "next": {
-    "title": "Giới thiệu chung màn hình thu ngân",
-    "permalink": "/phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan"
+    "title": "2. Giới thiệu màn hình thu ngân",
+    "permalink": "/phan-he-thu-ngan/gioi-thieu-man-hinh-thu-ngan"
   }
 }

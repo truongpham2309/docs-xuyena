@@ -1,7 +1,7 @@
 {
   "id": "phan-he-thu-ngan/khoa-vien-phi",
-  "title": "Khóa viện phí",
-  "description": "",
+  "title": "Khóa Viện phí",
+  "description": "Nội dung...",
   "source": "@site/docs/02-phan-he-thu-ngan/08-khoa-vien-phi.md",
   "sourceDirName": "02-phan-he-thu-ngan",
   "slug": "/phan-he-thu-ngan/khoa-vien-phi",
@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_label": "Khóa viện phí",
-    "title": "Khóa viện phí",
+    "sidebar_label": "8. Khóa Viện phí",
+    "title": "Khóa Viện phí",
     "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Các thao tác thu ngân",
-    "permalink": "/phan-he-thu-ngan/cac-thao-tac-thu-ngan"
+    "title": "7. Thao tác thanh toán",
+    "permalink": "/phan-he-thu-ngan/thao-tac-thanh-toan"
   },
   "next": {
-    "title": "Duyệt, khóa BH đối với hồ sơ BH",
-    "permalink": "/phan-he-thu-ngan/duyet-khoa-BH"
+    "title": "9. Duyệt, khóa BHYT",
+    "permalink": "/phan-he-thu-ngan/duyet-khoa-bao-hiem"
   }
 }

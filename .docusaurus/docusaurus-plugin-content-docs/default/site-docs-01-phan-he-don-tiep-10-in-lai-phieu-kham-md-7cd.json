@@ -1,7 +1,7 @@
 {
   "id": "phan-he-don-tiep/in-lai-phieu-kham",
   "title": "In lại phiếu khám",
-  "description": "",
+  "description": "Nội dung...",
   "source": "@site/docs/01-phan-he-don-tiep/10-in-lai-phieu-kham.md",
   "sourceDirName": "01-phan-he-don-tiep",
   "slug": "/phan-he-don-tiep/in-lai-phieu-kham",
@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 10,
   "frontMatter": {
-    "sidebar_label": "In lại phiếu khám",
+    "sidebar_label": "10. In lại phiếu khám",
     "title": "In lại phiếu khám",
     "sidebar_position": 10
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Chỉnh sửa phòng khám",
-    "permalink": "/phan-he-don-tiep/chinh-sua-phong-kham"
+    "title": "9. Chỉnh sửa, xóa hồ sơ",
+    "permalink": "/phan-he-don-tiep/chinh-sua-xoa-ho-so"
   },
   "next": {
-    "title": "Đăng nhập, chọn phòng thu ngân",
-    "permalink": "/phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan"
+    "title": "1. Đăng nhập, chọn phòng khám",
+    "permalink": "/phan-he-phong-kham/dang-nhap-chon-phong-kham"
   }
 }

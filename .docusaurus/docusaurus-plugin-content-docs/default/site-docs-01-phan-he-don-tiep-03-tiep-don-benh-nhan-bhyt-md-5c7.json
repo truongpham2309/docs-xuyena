@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_label": "Tiếp đón bệnh nhân BHYT",
+    "sidebar_label": "3. Tiếp đón bệnh nhân BHYT",
     "title": "Tiếp đón bệnh nhân BHYT",
     "sidebar_position": 3
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Ý nghĩa chức năng phần mềm",
-    "permalink": "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem"
+    "title": "2. Chọn chức năng Tiếp đón 2",
+    "permalink": "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2"
   },
   "next": {
-    "title": "Tiếp đón BN không có thẻ BHYT",
-    "permalink": "/phan-he-don-tiep/tiep-don-benh-nhan-khong-co-the-bhyt"
+    "title": "4. Tiếp đón bệnh nhân không BHYT",
+    "permalink": "/phan-he-don-tiep/tiep-don-benh-nhan-khong-bhyt"
   }
 }

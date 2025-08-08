@@ -91,6 +91,14 @@ const config = {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
+      algolia: {
+      appId: 'WOYHYEZWK3',
+      apiKey: '740814dd1453fa72ad9905adf8589178',
+      indexName: 'Tài liệu HisPro BVXA',
+        // Tùy chọn: Bật tính năng tìm kiếm theo ngữ cảnh (hữu ích cho các tài liệu có phiên bản)
+        contextualSearch: true,
+      },
+
     }),
 };
 

@@ -1,6 +1,6 @@
 {
   "id": "phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
-  "title": "Chỉnh sửa thông tin hành chính",
+  "title": "Chỉnh sửa thông tin hành chính của bệnh nhân",
   "description": "Chỉnh sửa thông tin hành chính của bệnh nhân trong trường hợp nhầm lẫn, sai sót, bổ sung",
   "source": "@site/docs/01-phan-he-don-tiep/08-chinh-sua-thong-tin-hanh-chinh.md",
   "sourceDirName": "01-phan-he-don-tiep",
@@ -12,17 +12,17 @@
   "version": "current",
   "sidebarPosition": 8,
   "frontMatter": {
-    "sidebar_label": "Chỉnh sửa thông tin hành chính",
-    "title": "Chỉnh sửa thông tin hành chính",
+    "sidebar_label": "8. Chỉnh sửa thông tin hành chính",
+    "title": "Chỉnh sửa thông tin hành chính của bệnh nhân",
     "sidebar_position": 8
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Nhập các thông tin liên quan",
-    "permalink": "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan"
+    "title": "7. Các cảnh báo khi tiếp đón",
+    "permalink": "/phan-he-don-tiep/cac-canh-bao-khi-tiep-don"
   },
   "next": {
-    "title": "Các cảnh báo khi tiếp đón",
-    "permalink": "/phan-he-don-tiep/canh-bao-khi-tiep-don"
+    "title": "9. Chỉnh sửa, xóa hồ sơ",
+    "permalink": "/phan-he-don-tiep/chinh-sua-xoa-ho-so"
   }
 }

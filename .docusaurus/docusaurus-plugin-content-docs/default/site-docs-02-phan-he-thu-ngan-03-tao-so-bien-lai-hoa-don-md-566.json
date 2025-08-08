@@ -1,7 +1,7 @@
 {
   "id": "phan-he-thu-ngan/tao-so-bien-lai-hoa-don",
   "title": "Tạo sổ biên lai, hóa đơn",
-  "description": "( Lưu ý: Sổ của người nào tạo thì mới có quyền chỉnh sửa sổ,  phần tạo sổ thanh toán bao gồm cả thông tin mẫu số, ký hiệu dùng trong hóa đơn điện tử)",
+  "description": "(Lưu ý: Sổ của người nào tạo thì mới có quyền chỉnh sửa sổ, phần tạo sổ thanh toán bao gồm cả thông tin mẫu số, ký hiệu dùng trong hóa đơn điện tử)",
   "source": "@site/docs/02-phan-he-thu-ngan/03-tao-so-bien-lai-hoa-don.md",
   "sourceDirName": "02-phan-he-thu-ngan",
   "slug": "/phan-he-thu-ngan/tao-so-bien-lai-hoa-don",
@@ -12,8 +12,17 @@
   "version": "current",
   "sidebarPosition": 3,
   "frontMatter": {
-    "sidebar_label": "Tạo sổ biên lai, hóa đơn",
+    "sidebar_label": "3. Tạo sổ biên lai, hóa đơn",
     "title": "Tạo sổ biên lai, hóa đơn",
     "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "2. Giới thiệu màn hình thu ngân",
+    "permalink": "/phan-he-thu-ngan/gioi-thieu-man-hinh-thu-ngan"
+  },
+  "next": {
+    "title": "4. Lọc và tìm kiếm bệnh nhân",
+    "permalink": "/phan-he-thu-ngan/tim-kiem-benh-nhan"
   }
 }
