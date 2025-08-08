@@ -5,7 +5,7 @@
  */
 export default {
   "title": "Tài liệu HisPro BVXA",
-  "tagline": "Tài liệu hướng dẫn người dùng sử dụng HisPro BVXAl",
+  "tagline": "Tài liệu hướng dẫn người dùng sử dụng HisPro BVXA",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -35,13 +35,22 @@ export default {
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "vi",
     "locales": [
-      "en"
+      "vi"
     ],
     "path": "i18n",
     "localeConfigs": {}
   },
+  "headTags": [
+    {
+      "tagName": "meta",
+      "attributes": {
+        "name": "algolia-site-verification",
+        "content": "B63548352B9E70EF"
+      }
+    }
+  ],
   "presets": [
     [
       "classic",
@@ -338,7 +347,6 @@ export default {
   "plugins": [],
   "themes": [],
   "scripts": [],
-  "headTags": [],
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
