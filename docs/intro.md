@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
+title: 'Tài liệu HisPro BVXA'
 slug: /
 pagination_prev: null
 pagination_next: null
