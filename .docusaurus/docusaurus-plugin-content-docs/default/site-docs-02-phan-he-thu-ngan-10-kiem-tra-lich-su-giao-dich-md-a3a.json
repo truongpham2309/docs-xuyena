@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/kiem-tra-lich-su-giao-dich",
+  "title": "Kiểm tra lịch sử giao dịch",
+  "description": "",
+  "source": "@site/docs/02-phan-he-thu-ngan/10-kiem-tra-lich-su-giao-dich.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich",
+  "permalink": "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_label": "Kiểm tra lịch sử giao dịch",
+    "title": "Kiểm tra lịch sử giao dịch",
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Duyệt, khóa BH đối với hồ sơ BH",
+    "permalink": "/phan-he-thu-ngan/duyet-khoa-BH"
+  },
+  "next": {
+    "title": "Xem bảng kê chi phí của bệnh nhân",
+    "permalink": "/phan-he-thu-ngan/xem-bang-ke-chi-phi"
+  }
+}

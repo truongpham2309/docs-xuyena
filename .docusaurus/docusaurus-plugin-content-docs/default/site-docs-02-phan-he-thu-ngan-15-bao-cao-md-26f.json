@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/bao-cao",
+  "title": "Báo cáo",
+  "description": "Nội dung",
+  "source": "@site/docs/02-phan-he-thu-ngan/15-bao-cao.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/bao-cao",
+  "permalink": "/phan-he-thu-ngan/bao-cao",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_label": "Báo cáo",
+    "title": "Báo cáo",
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Thao tác mở khóa BH - Viện phí",
+    "permalink": "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi"
+  },
+  "next": {
+    "title": "Đăng nhập, chọn phòng khám",
+    "permalink": "/phan-he-phong-kham/dang-nhap-chon-phong-kham"
+  }
+}

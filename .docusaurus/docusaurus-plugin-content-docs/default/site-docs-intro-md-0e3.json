@@ -1,0 +1,21 @@
+{
+  "id": "intro",
+  "title": "Giới thiệu",
+  "description": "Phần mềm quản lý bệnh viện (HIS) là công cụ hỗ trợ toàn diện cho các quy trình chuyên môn và hành chính trong bệnh viện. Hệ thống được thiết kế để tối ưu hóa các hoạt động từ tiếp đón, thu ngân, khám chữa bệnh, điều trị nội trú đến quản lý dược - vật tư.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/",
+    "pagination_prev": null,
+    "pagination_next": null
+  },
+  "sidebar": "tutorialSidebar"
+}

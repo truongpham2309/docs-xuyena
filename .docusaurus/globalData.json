@@ -1,0 +1,172 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/canh-bao-khi-tiep-don",
+              "path": "/phan-he-don-tiep/canh-bao-khi-tiep-don",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/chinh-sua-phong-kham",
+              "path": "/phan-he-don-tiep/chinh-sua-phong-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
+              "path": "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/giao-dien-va-dang-nhap",
+              "path": "/phan-he-don-tiep/giao-dien-va-dang-nhap",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/in-lai-phieu-kham",
+              "path": "/phan-he-don-tiep/in-lai-phieu-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/nhap-cac-thong-tin-lien-quan",
+              "path": "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
+              "path": "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/tiep-don-benh-nhan-khong-co-the-bhyt",
+              "path": "/phan-he-don-tiep/tiep-don-benh-nhan-khong-co-the-bhyt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/xem-tinh-trang-cac-phong-kham",
+              "path": "/phan-he-don-tiep/xem-tinh-trang-cac-phong-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/y-nghia-chuc-nang-phan-mem",
+              "path": "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-duoc-vat-tu/dang-nhap-chon-phong",
+              "path": "/phan-he-duoc-vat-tu/dang-nhap-chon-phong",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau",
+              "path": "/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-phong-kham/dang-nhap-chon-phong-kham",
+              "path": "/phan-he-phong-kham/dang-nhap-chon-phong-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/bao-cao",
+              "path": "/phan-he-thu-ngan/bao-cao",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/cac-thao-tac-thu-ngan",
+              "path": "/phan-he-thu-ngan/cac-thao-tac-thu-ngan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/cac-truong-loc-tim-kiem-bn-quet-ma-qrcode",
+              "path": "/phan-he-thu-ngan/cac-truong-loc-tim-kiem-bn-quet-ma-qrcode",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan",
+              "path": "/phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/duyet-khoa-BH",
+              "path": "/phan-he-thu-ngan/duyet-khoa-BH",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan",
+              "path": "/phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung",
+              "path": "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/khoa-vien-phi",
+              "path": "/phan-he-thu-ngan/khoa-vien-phi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/kiem-tra-lich-su-giao-dich",
+              "path": "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien",
+              "path": "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/tao-so-bien-lai-hoa-don",
+              "path": "/phan-he-thu-ngan/tao-so-bien-lai-hoa-don"
+            },
+            {
+              "id": "phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi",
+              "path": "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/xem-bang-ke-chi-phi",
+              "path": "/phan-he-thu-ngan/xem-bang-ke-chi-phi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/y-nghia-cac-mau-tai-man-hinh-vien-phi-duyet-bhyt",
+              "path": "/phan-he-thu-ngan/y-nghia-cac-mau-tai-man-hinh-vien-phi-duyet-bhyt",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi",
+              "path": "/phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

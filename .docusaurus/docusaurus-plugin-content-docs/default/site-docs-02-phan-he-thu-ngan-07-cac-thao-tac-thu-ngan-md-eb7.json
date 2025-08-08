@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/cac-thao-tac-thu-ngan",
+  "title": "Các thao tác thu ngân",
+  "description": "Thao tác tạm ứng",
+  "source": "@site/docs/02-phan-he-thu-ngan/07-cac-thao-tac-thu-ngan.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/cac-thao-tac-thu-ngan",
+  "permalink": "/phan-he-thu-ngan/cac-thao-tac-thu-ngan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_label": "Các thao tác thu ngân",
+    "title": "Các thao tác thu ngân",
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ý nghĩa các thông tin tại màn hình chi tiết viện phí",
+    "permalink": "/phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi"
+  },
+  "next": {
+    "title": "Khóa viện phí",
+    "permalink": "/phan-he-thu-ngan/khoa-vien-phi"
+  }
+}

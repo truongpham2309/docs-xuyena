@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-don-tiep/nhap-cac-thong-tin-lien-quan",
+  "title": "Nhập các thông tin liên quan",
+  "description": "Cấp cứu, Ưu tiên, Thu sau, 5 năm. 6 tháng, Sơ sinh. Họ tên cha, mẹ, Nơi làm việc - các trường thông tin bổ sung.",
+  "source": "@site/docs/01-phan-he-don-tiep/06-nhap-cac-thong-tin-lien-quan.md",
+  "sourceDirName": "01-phan-he-don-tiep",
+  "slug": "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan",
+  "permalink": "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Nhập các thông tin liên quan",
+    "title": "Nhập các thông tin liên quan",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Xem tình trạng các phòng khám",
+    "permalink": "/phan-he-don-tiep/xem-tinh-trang-cac-phong-kham"
+  },
+  "next": {
+    "title": "Chỉnh sửa thông tin hành chính",
+    "permalink": "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-don-tiep/y-nghia-chuc-nang-phan-mem",
+  "title": "Ý nghĩa chức năng phần mềm",
+  "description": "1. Chức năng Tiếp đón 2 (Đăng ký khám bệnh)",
+  "source": "@site/docs/01-phan-he-don-tiep/02-y-nghia-chuc-nang-phan-mem.md",
+  "sourceDirName": "01-phan-he-don-tiep",
+  "slug": "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem",
+  "permalink": "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Ý nghĩa chức năng phần mềm",
+    "title": "Ý nghĩa chức năng phần mềm",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Giao diện và Đăng nhập",
+    "permalink": "/phan-he-don-tiep/giao-dien-va-dang-nhap"
+  },
+  "next": {
+    "title": "Tiếp đón bệnh nhân BHYT",
+    "permalink": "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt"
+  }
+}

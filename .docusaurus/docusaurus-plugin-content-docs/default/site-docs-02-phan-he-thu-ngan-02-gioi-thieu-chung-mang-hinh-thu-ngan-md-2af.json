@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan",
+  "title": "Giới thiệu chung màn hình thu ngân",
+  "description": "( Nội dung từng phần của màn hình)",
+  "source": "@site/docs/02-phan-he-thu-ngan/02-gioi-thieu-chung-mang-hinh-thu-ngan.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan",
+  "permalink": "/phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Giới thiệu chung màn hình thu ngân",
+    "title": "Giới thiệu chung màn hình thu ngân",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Đăng nhập, chọn phòng thu ngân",
+    "permalink": "/phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan"
+  },
+  "next": {
+    "title": "Các trường lọc, tìm kiếm BN, quét mã qrcode",
+    "permalink": "/phan-he-thu-ngan/cac-truong-loc-tim-kiem-bn-quet-ma-qrcode"
+  }
+}

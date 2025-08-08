@@ -1,0 +1,131 @@
+{
+  "/-725": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/-af4": {
+    "__comp": "a7bd4aaa",
+    "__props": "22dd74f7"
+  },
+  "/-d99": {
+    "__comp": "a94703ab"
+  },
+  "/phan-he-don-tiep/canh-bao-khi-tiep-don-bf6": {
+    "__comp": "17896441",
+    "content": "26f87530"
+  },
+  "/phan-he-don-tiep/chinh-sua-phong-kham-a12": {
+    "__comp": "17896441",
+    "content": "696aa01a"
+  },
+  "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh-a40": {
+    "__comp": "17896441",
+    "content": "985f2cbe"
+  },
+  "/phan-he-don-tiep/giao-dien-va-dang-nhap-b10": {
+    "__comp": "17896441",
+    "content": "618a5ff6"
+  },
+  "/phan-he-don-tiep/in-lai-phieu-kham-ef8": {
+    "__comp": "17896441",
+    "content": "7cd696ec"
+  },
+  "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan-42e": {
+    "__comp": "17896441",
+    "content": "9eb47317"
+  },
+  "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt-646": {
+    "__comp": "17896441",
+    "content": "5c704409"
+  },
+  "/phan-he-don-tiep/tiep-don-benh-nhan-khong-co-the-bhyt-9ee": {
+    "__comp": "17896441",
+    "content": "1d8bccf2"
+  },
+  "/phan-he-don-tiep/xem-tinh-trang-cac-phong-kham-0a6": {
+    "__comp": "17896441",
+    "content": "eb5129b5"
+  },
+  "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem-967": {
+    "__comp": "17896441",
+    "content": "a5be1bb4"
+  },
+  "/phan-he-duoc-vat-tu/dang-nhap-chon-phong-123": {
+    "__comp": "17896441",
+    "content": "97f4a296"
+  },
+  "/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau-a33": {
+    "__comp": "17896441",
+    "content": "e6db149a"
+  },
+  "/phan-he-phong-kham/dang-nhap-chon-phong-kham-3a2": {
+    "__comp": "17896441",
+    "content": "c64b9d35"
+  },
+  "/phan-he-thu-ngan/bao-cao-dce": {
+    "__comp": "17896441",
+    "content": "26fa7a70"
+  },
+  "/phan-he-thu-ngan/cac-thao-tac-thu-ngan-e34": {
+    "__comp": "17896441",
+    "content": "eb70b7ba"
+  },
+  "/phan-he-thu-ngan/cac-truong-loc-tim-kiem-bn-quet-ma-qrcode-367": {
+    "__comp": "17896441",
+    "content": "fe1d7a89"
+  },
+  "/phan-he-thu-ngan/dang-nhap-chon-phong-thu-ngan-73b": {
+    "__comp": "17896441",
+    "content": "f8f0ea94"
+  },
+  "/phan-he-thu-ngan/duyet-khoa-BH-bb6": {
+    "__comp": "17896441",
+    "content": "132e8a50"
+  },
+  "/phan-he-thu-ngan/gioi-thieu-chung-mang-hinh-thu-ngan-8d5": {
+    "__comp": "17896441",
+    "content": "2af33705"
+  },
+  "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung-32c": {
+    "__comp": "17896441",
+    "content": "60ba0a66"
+  },
+  "/phan-he-thu-ngan/khoa-vien-phi-b50": {
+    "__comp": "17896441",
+    "content": "7b13093b"
+  },
+  "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich-c06": {
+    "__comp": "17896441",
+    "content": "a3a7a941"
+  },
+  "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien-d91": {
+    "__comp": "17896441",
+    "content": "ab0a868e"
+  },
+  "/phan-he-thu-ngan/tao-so-bien-lai-hoa-don-a7d": {
+    "__comp": "17896441",
+    "content": "56691083"
+  },
+  "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi-bce": {
+    "__comp": "17896441",
+    "content": "c89492ff"
+  },
+  "/phan-he-thu-ngan/xem-bang-ke-chi-phi-723": {
+    "__comp": "17896441",
+    "content": "331f8e0c"
+  },
+  "/phan-he-thu-ngan/y-nghia-cac-mau-tai-man-hinh-vien-phi-duyet-bhyt-3bc": {
+    "__comp": "17896441",
+    "content": "cc5585ee"
+  },
+  "/phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi-edc": {
+    "__comp": "17896441",
+    "content": "3a1e05f9"
+  },
+  "/-fc9": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/duyet-khoa-BH",
+  "title": "Duyệt, khóa BH đối với hồ sơ BH",
+  "description": "",
+  "source": "@site/docs/02-phan-he-thu-ngan/09-duyet-khoa-BH.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/duyet-khoa-BH",
+  "permalink": "/phan-he-thu-ngan/duyet-khoa-BH",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_label": "Duyệt, khóa BH đối với hồ sơ BH",
+    "title": "Duyệt, khóa BH đối với hồ sơ BH",
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Khóa viện phí",
+    "permalink": "/phan-he-thu-ngan/khoa-vien-phi"
+  },
+  "next": {
+    "title": "Kiểm tra lịch sử giao dịch",
+    "permalink": "/phan-he-thu-ngan/kiem-tra-lich-su-giao-dich"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi",
+  "title": "Thao tác mở khóa BH - Viện phí",
+  "description": "Thao tác mở khóa BH",
+  "source": "@site/docs/02-phan-he-thu-ngan/14-thao-tac-khoa-mo-bh-vien-phi.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi",
+  "permalink": "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_label": "Thao tác mở khóa BH - Viện phí",
+    "title": "Thao tác mở khóa BH - Viện phí",
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Miễn giảm khi thanh toán tiền",
+    "permalink": "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien"
+  },
+  "next": {
+    "title": "Báo cáo",
+    "permalink": "/phan-he-thu-ngan/bao-cao"
+  }
+}

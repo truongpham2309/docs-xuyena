@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
+  "title": "Chỉnh sửa thông tin hành chính",
+  "description": "Chỉnh sửa thông tin hành chính của bệnh nhân trong trường hợp nhầm lẫn, sai sót, bổ sung",
+  "source": "@site/docs/01-phan-he-don-tiep/08-chinh-sua-thong-tin-hanh-chinh.md",
+  "sourceDirName": "01-phan-he-don-tiep",
+  "slug": "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
+  "permalink": "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_label": "Chỉnh sửa thông tin hành chính",
+    "title": "Chỉnh sửa thông tin hành chính",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Nhập các thông tin liên quan",
+    "permalink": "/phan-he-don-tiep/nhap-cac-thong-tin-lien-quan"
+  },
+  "next": {
+    "title": "Các cảnh báo khi tiếp đón",
+    "permalink": "/phan-he-don-tiep/canh-bao-khi-tiep-don"
+  }
+}

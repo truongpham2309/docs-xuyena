@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi",
+  "title": "Ý nghĩa các thông tin tại màn hình chi tiết viện phí",
+  "description": "(Tổng chi phí, tạm ứng, hoàn ứng, thanh toán...)",
+  "source": "@site/docs/02-phan-he-thu-ngan/06-y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi",
+  "permalink": "/phan-he-thu-ngan/y-nghia-cac-thong-tin-tai-man-hinh-chi-tiet-vien-phi",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_label": "Ý nghĩa các thông tin tại màn hình chi tiết viện phí",
+    "title": "Ý nghĩa các thông tin tại màn hình chi tiết viện phí",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ý nghĩa các màu tại màn hình Viện phí, Duyệt BH",
+    "permalink": "/phan-he-thu-ngan/y-nghia-cac-mau-tai-man-hinh-vien-phi-duyet-bhyt"
+  },
+  "next": {
+    "title": "Các thao tác thu ngân",
+    "permalink": "/phan-he-thu-ngan/cac-thao-tac-thu-ngan"
+  }
+}

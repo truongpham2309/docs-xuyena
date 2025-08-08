@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
+  "title": "Tiếp đón bệnh nhân BHYT",
+  "description": "Các hình thức đón tiếp: quét thẻ, nhập thẻ, mã bệnh nhân, thủ công",
+  "source": "@site/docs/01-phan-he-don-tiep/03-tiep-don-benh-nhan-bhyt.md",
+  "sourceDirName": "01-phan-he-don-tiep",
+  "slug": "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
+  "permalink": "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_label": "Tiếp đón bệnh nhân BHYT",
+    "title": "Tiếp đón bệnh nhân BHYT",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ý nghĩa chức năng phần mềm",
+    "permalink": "/phan-he-don-tiep/y-nghia-chuc-nang-phan-mem"
+  },
+  "next": {
+    "title": "Tiếp đón BN không có thẻ BHYT",
+    "permalink": "/phan-he-don-tiep/tiep-don-benh-nhan-khong-co-the-bhyt"
+  }
+}

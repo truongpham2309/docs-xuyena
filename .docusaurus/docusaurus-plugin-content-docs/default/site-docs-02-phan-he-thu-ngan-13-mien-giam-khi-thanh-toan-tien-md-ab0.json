@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien",
+  "title": "Miễn giảm khi thanh toán tiền",
+  "description": "(Số tiền cần miễn giảm, %/ tổng bill)",
+  "source": "@site/docs/02-phan-he-thu-ngan/13-mien-giam-khi-thanh-toan-tien.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien",
+  "permalink": "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_label": "Miễn giảm khi thanh toán tiền",
+    "title": "Miễn giảm khi thanh toán tiền",
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hủy giao dịch, in phiếu tương ứng",
+    "permalink": "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung"
+  },
+  "next": {
+    "title": "Thao tác mở khóa BH - Viện phí",
+    "permalink": "/phan-he-thu-ngan/thao-tac-khoa-mo-bh-vien-phi"
+  }
+}

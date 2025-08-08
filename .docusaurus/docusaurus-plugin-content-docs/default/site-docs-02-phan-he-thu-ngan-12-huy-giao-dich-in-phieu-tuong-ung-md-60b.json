@@ -1,0 +1,28 @@
+{
+  "id": "phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung",
+  "title": "Hủy giao dịch, in phiếu tương ứng",
+  "description": "",
+  "source": "@site/docs/02-phan-he-thu-ngan/12-huy-giao-dich-in-phieu-tuong-ung.md",
+  "sourceDirName": "02-phan-he-thu-ngan",
+  "slug": "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung",
+  "permalink": "/phan-he-thu-ngan/huy-giao-dich-in-phieu-tuong-ung",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_label": "Hủy giao dịch, in phiếu tương ứng",
+    "title": "Hủy giao dịch, in phiếu tương ứng",
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Xem bảng kê chi phí của bệnh nhân",
+    "permalink": "/phan-he-thu-ngan/xem-bang-ke-chi-phi"
+  },
+  "next": {
+    "title": "Miễn giảm khi thanh toán tiền",
+    "permalink": "/phan-he-thu-ngan/mien-giam-khi-thanh-toan-tien"
+  }
+}
