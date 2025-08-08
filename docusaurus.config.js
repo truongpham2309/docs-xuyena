@@ -71,13 +71,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-        items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Hướng dẫn',
-          },
+        items: [          
           { to: 'https://truongit.net/hispro-xuyen-a#cuchi', label: 'Tải HisPro Củ Chi', position: 'left' },
           { to: 'https://truongit.net/hispro-xuyen-a#vinhlong', label: 'Tải HisPro Vĩnh Long', position: 'left' },
           { to: 'https://truongit.net/hispro-xuyen-a#tayninh', label: 'Tải HisPro Tây Ninh', position: 'left' },
