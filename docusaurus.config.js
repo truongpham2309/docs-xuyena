@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Tài liệu HisPro BVXA',
-  tagline: 'Tài liệu hướng dẫn người dùng sử dụng HisPro BVXAl',
+  tagline: 'Tài liệu hướng dẫn người dùng sử dụng HisPro BVXA',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -37,9 +37,20 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'vi',
+    locales: ['vi'],
   },
+
+   headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        // Algolia Verification
+        name: 'algolia-site-verification',
+        content: 'B63548352B9E70EF',
+      },
+    },
+  ],
 
   presets: [
     [
