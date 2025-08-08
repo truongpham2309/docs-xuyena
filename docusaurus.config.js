@@ -78,7 +78,10 @@ const config = {
             position: 'left',
             label: 'Hướng dẫn',
           },
-          { to: 'https://hispro.truongit.net', label: 'Tải HisPro', position: 'left' },
+          { to: 'https://truongit.net/hispro-xuyen-a#cuchi', label: 'Tải HisPro Củ Chi', position: 'left' },
+          { to: 'https://truongit.net/hispro-xuyen-a#vinhlong', label: 'Tải HisPro Vĩnh Long', position: 'left' },
+          { to: 'https://truongit.net/hispro-xuyen-a#tayninh', label: 'Tải HisPro Tây Ninh', position: 'left' },
+          { to: 'https://truongit.net/hispro-xuyen-a#longan', label: 'Tải HisPro Long An', position: 'left' },
 //          {
 //            href: 'https://github.com/facebook/docusaurus',
 //            label: 'GitHub',
@@ -88,7 +91,7 @@ const config = {
      },
       footer: {
         style: 'dark',        
-        copyright: `Copyright © ${new Date().getFullYear()} Xuyen A Hospital, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Xuyen A Hospital, Inc — Developed by IT Xuyen A Support`,
       },
       prism: {
         theme: prismThemes.github,

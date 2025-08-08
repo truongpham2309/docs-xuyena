@@ -1,7 +1,7 @@
 ---
 sidebar_label: 'Giao diện và Đăng nhập'
-sidebar_position: 1
 title: 'Giao diện và Đăng nhập'
+sidebar_position: 1
 ---
 
 ## 1. Giao diện và Đăng nhập

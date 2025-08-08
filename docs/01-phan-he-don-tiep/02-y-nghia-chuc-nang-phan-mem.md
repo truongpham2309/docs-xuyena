@@ -1,6 +1,7 @@
 ---
 sidebar_label: 'Ý nghĩa chức năng phần mềm'
 title: 'Ý nghĩa chức năng phần mềm'
+sidebar_position: 2
 ---
 
 # Giới thiệu ý nghĩa chức năng phần mềm.
