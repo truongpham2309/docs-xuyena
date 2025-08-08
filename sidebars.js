@@ -43,7 +43,7 @@ const sidebars = {
       label: 'Phân hệ Nội Trú',
       items: [
         'phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau',
-        'phan-he-noi-tru/chon-phong',
+        'phan-he-noi-tru/chon-phong-lam-viec',
         'phan-he-noi-tru/tiep-nhan-benh-nhan-vao-khoa',
         'phan-he-noi-tru/man-hinh-buong-benh',
         'phan-he-noi-tru/ke-ngay-giuong',
@@ -60,11 +60,11 @@ const sidebars = {
         'phan-he-noi-tru/linh-hao-phi-khoa-phong',
         'phan-he-noi-tru/nhap-thong-tin-pttt',
         'phan-he-noi-tru/ke-vat-tu-hao-phi-pttt',
-        'phan-he-noi-tru/tao-bien-ban-hoi-chan',
+        'phan-he-noi-tru/bien-ban-hoi-chan',
         'phan-he-noi-tru/lam-benh-an',
         'phan-he-noi-tru/cong-khai-dich-vu',
         'phan-he-noi-tru/xem-va-in-bang-ke',
-        'phan-he-noi-tru/vien-phi-va-giay-to-hanh-chinh',
+        'phan-he-noi-tru/cac-chuc-nang-khac',
       ],
     },
     {
