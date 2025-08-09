@@ -4,9 +4,9 @@ title: 'Chọn chức năng Tiếp đón 2'
 sidebar_position: 2
 ---
 
-# Giới thiệu ý nghĩa chức năng phần mềm.
+# Chức năng Tiếp đón 2.
 
-## 1. Chức năng Tiếp đón 2 (Đăng ký khám bệnh)
+## Đăng ký khám bệnh
 
 - Click vào nút Đăng ký thông tin bệnh nhân khám
 
@@ -33,7 +33,7 @@ sidebar_position: 2
   <img src="/img/giao-dien-chuyen-tuyen.jpg" alt="Chức năng chuyển tuyến" />
 </div>
 
-## 2.	Hướng dẫn chuyển đổi thông tin hành chánh từ 3 cấp sang 2 cấp:
+## Hướng dẫn chuyển đổi thông tin hành chánh từ 3 cấp sang 2 cấp:
 **Bước 1: ** Tìm thông tin địa chỉ hành chánh 2 cấp mã Tỉnh, Xã mới ban hành.
 -	Truy cập vào  website:  https://address-converter.io.vn/
 -	Nhập thông tin địa chỉ hành chánh 3 cấp cũ 
@@ -55,7 +55,7 @@ Nhập xong click chuột vào Chuyển đổi địa chỉ
 </div>
 -	Sau đó copy mã Tỉnh và mã Xã trên website vừa chuyễn đỗi vào từng ô tương ứng vào phần mềm HisPro. Ô địa chỉ thẻ BHYT sẽ tự động cập nhật địa chỉ hành chính.
 
-## 3.	Check thông tin BN với cổng giám định BHYT:
+## Check thông tin BN với cổng giám định BHYT:
 Khi nhập đầy đủ thông tin của bệnh nhân sẽ hiển thị thẻ có hợp lệ hay không:
 <div className="center-container">
   <img src="/img/kiem-tra-thong-tin-tren-cong-giam-dinh.jpg" alt="Kiểm tra thông tin bệnh nhân với công giám đinh BHYT" />

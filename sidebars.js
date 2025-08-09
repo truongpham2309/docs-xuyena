@@ -12,10 +12,9 @@ const sidebars = {
         'phan-he-don-tiep/chuc-nang-danh-sach-y-lenh',
         'phan-he-don-tiep/chuc-nang-doi-phong-kham',
         'phan-he-don-tiep/chuc-nang-ho-so-dieu-tri',
-        'phan-he-don-tiep/cac-canh-bao-khi-tiep-don',
-        'phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh',
+        'phan-he-don-tiep/chuc-nang-lich-su-dieu-tri',
+        'phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham',
         'phan-he-don-tiep/chinh-sua-xoa-ho-so',
-        'phan-he-don-tiep/in-lai-phieu-kham',
       ],
     },
     {

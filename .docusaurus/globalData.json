@@ -36,6 +36,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "phan-he-don-tiep/chuc-nang-benh-nhan",
+              "path": "/phan-he-don-tiep/chuc-nang-benh-nhan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/chuc-nang-danh-sach-y-lenh",
+              "path": "/phan-he-don-tiep/chuc-nang-danh-sach-y-lenh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/chuc-nang-doi-phong-kham",
+              "path": "/phan-he-don-tiep/chuc-nang-doi-phong-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/chuc-nang-ho-so-dieu-tri",
+              "path": "/phan-he-don-tiep/chuc-nang-ho-so-dieu-tri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
               "path": "/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
               "sidebar": "tutorialSidebar"
@@ -43,26 +63,6 @@
             {
               "id": "phan-he-don-tiep/in-lai-phieu-kham",
               "path": "/phan-he-don-tiep/in-lai-phieu-kham",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/nhap-thong-tin-bo-sung",
-              "path": "/phan-he-don-tiep/nhap-thong-tin-bo-sung",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
-              "path": "/phan-he-don-tiep/tiep-don-benh-nhan-bhyt",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/tiep-don-benh-nhan-khong-bhyt",
-              "path": "/phan-he-don-tiep/tiep-don-benh-nhan-khong-bhyt",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/xem-tinh-trang-phong-kham",
-              "path": "/phan-he-don-tiep/xem-tinh-trang-phong-kham",
               "sidebar": "tutorialSidebar"
             },
             {
