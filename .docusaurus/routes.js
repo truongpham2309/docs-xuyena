@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '9d1'),
+    component: ComponentCreator('/', '334'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '4e0'),
+        component: ComponentCreator('/', 'bae'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '851'),
+            component: ComponentCreator('/', 'ed6'),
             routes: [
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
@@ -332,14 +332,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh',
+                component: ComponentCreator('/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh', '083'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/phan-he-phong-kham/dang-nhap-chon-phong-kham',
                 component: ComponentCreator('/phan-he-phong-kham/dang-nhap-chon-phong-kham', '3a2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/goi-benh-nhan-theo-stt',
-                component: ComponentCreator('/phan-he-phong-kham/goi-benh-nhan-theo-stt', '087'),
+                path: '/phan-he-phong-kham/giao-dien-phong-kham',
+                component: ComponentCreator('/phan-he-phong-kham/giao-dien-phong-kham', '42b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -358,12 +364,6 @@ export default [
               {
                 path: '/phan-he-phong-kham/ke-don-thuoc',
                 component: ComponentCreator('/phan-he-phong-kham/ke-don-thuoc', '5ad'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/mau-sac-va-bieu-tuong',
-                component: ComponentCreator('/phan-he-phong-kham/mau-sac-va-bieu-tuong', 'c04'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

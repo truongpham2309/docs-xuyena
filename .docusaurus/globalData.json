@@ -276,13 +276,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "phan-he-phong-kham/chuc-nang-danh-sach-y-lenh",
+              "path": "/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "phan-he-phong-kham/dang-nhap-chon-phong-kham",
               "path": "/phan-he-phong-kham/dang-nhap-chon-phong-kham",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/goi-benh-nhan-theo-stt",
-              "path": "/phan-he-phong-kham/goi-benh-nhan-theo-stt",
+              "id": "phan-he-phong-kham/giao-dien-phong-kham",
+              "path": "/phan-he-phong-kham/giao-dien-phong-kham",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -298,11 +303,6 @@
             {
               "id": "phan-he-phong-kham/ke-don-thuoc",
               "path": "/phan-he-phong-kham/ke-don-thuoc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/mau-sac-va-bieu-tuong",
-              "path": "/phan-he-phong-kham/mau-sac-va-bieu-tuong",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -5,7 +5,7 @@ sidebar_position: 7
 ---
 
 # Chức năng Lịch sử điều trị
-Là chức năng tra cứu lịch sử điều trị trên phần mềm của một hay nhiều bệnh nhân.
+Là chức năng cho phép tra cứu và xem lại toàn bộ quá trình khám, chẩn đoán, kê đơn và điều trị của một hoặc nhiều bệnh nhân trên phần mềm.
 
 <div className="center-container">
   <img src="/img/chuc-nang-lich-su-dieu-tri.jpg" alt="Chức năng Lịch sử điều trị" />

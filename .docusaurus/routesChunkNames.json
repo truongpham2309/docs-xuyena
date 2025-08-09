@@ -5,17 +5,17 @@
       "plugin": "c141421f"
     }
   },
-  "/-9d1": {
+  "/-334": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-4e0": {
+  "/-bae": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-851": {
+  "/-ed6": {
     "__comp": "a94703ab"
   },
   "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2-9ca": {
@@ -226,13 +226,17 @@
     "__comp": "17896441",
     "content": "24d15fe5"
   },
+  "/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh-083": {
+    "__comp": "17896441",
+    "content": "4595e172"
+  },
   "/phan-he-phong-kham/dang-nhap-chon-phong-kham-3a2": {
     "__comp": "17896441",
     "content": "c64b9d35"
   },
-  "/phan-he-phong-kham/goi-benh-nhan-theo-stt-087": {
+  "/phan-he-phong-kham/giao-dien-phong-kham-42b": {
     "__comp": "17896441",
-    "content": "708d8858"
+    "content": "fb600610"
   },
   "/phan-he-phong-kham/hen-kham-va-giay-to-bhxh-aa1": {
     "__comp": "17896441",
@@ -245,10 +249,6 @@
   "/phan-he-phong-kham/ke-don-thuoc-5ad": {
     "__comp": "17896441",
     "content": "5c01a1a1"
-  },
-  "/phan-he-phong-kham/mau-sac-va-bieu-tuong-c04": {
-    "__comp": "17896441",
-    "content": "86e56cd7"
   },
   "/phan-he-phong-kham/mo-lai-ho-so-ddb": {
     "__comp": "17896441",

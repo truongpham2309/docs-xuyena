@@ -23,7 +23,7 @@ const sidebars = {
         'phan-he-phong-kham/dang-nhap-chon-phong-kham',
         'phan-he-phong-kham/giao-dien-phong-kham',
         'phan-he-phong-kham/chuc-nang-danh-sach-y-lenh',
-        'phan-he-phong-kham/xu-ly-kham-va-chan-doan',
+        'phan-he-phong-kham/chuc-nang-ho-so-dieu-tri',
         'phan-he-phong-kham/chi-dinh-can-lam-sang',
         'phan-he-phong-kham/xem-ket-qua-can-lam-sang',
         'phan-he-phong-kham/ke-don-thuoc',
