@@ -19,7 +19,7 @@ sidebar_position: 2
 - Dùng nhiều phương pháp để tiếp đón: "mã bệnh nhân", "CMND/CCCD", thẻ bhyt....
 - Với BN quay lại viện điều trị lần 2. Có thể dùng mã bệnh nhân để đăng ký nhanh cho bệnh nhân.
 <div className="center-container">
-  <img src="/img/dung-may-doc-ma-vach.png" alt="Dùng máy đọc mã vạch" />
+  <img src="/img/dung-may-doc-ma-vach.jpg" alt="Dùng máy đọc mã vạch" />
 </div>
 ### Dùng máy quét thẻ BHYT
 <div className="center-container">
