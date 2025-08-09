@@ -106,10 +106,8 @@ const config = {
       appId: 'WOYHYEZWK3',
       apiKey: '740814dd1453fa72ad9905adf8589178',
       indexName: 'bvxa-io',
-        // Tùy chọn: Bật tính năng tìm kiếm theo ngữ cảnh (hữu ích cho các tài liệu có phiên bản)
-        contextualSearch: true,
+      contextualSearch: true,
       },
-
     }),
 };
 
