@@ -281,6 +281,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "phan-he-phong-kham/chuc-nang-ho-so-dieu-tri",
+              "path": "/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "phan-he-phong-kham/dang-nhap-chon-phong-kham",
               "path": "/phan-he-phong-kham/dang-nhap-chon-phong-kham",
               "sidebar": "tutorialSidebar"
@@ -328,11 +333,6 @@
             {
               "id": "phan-he-phong-kham/xem-lich-su-dieu-tri",
               "path": "/phan-he-phong-kham/xem-lich-su-dieu-tri",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/xu-ly-kham-va-chan-doan",
-              "path": "/phan-he-phong-kham/xu-ly-kham-va-chan-doan",
               "sidebar": "tutorialSidebar"
             },
             {

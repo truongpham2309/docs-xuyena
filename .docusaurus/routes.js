@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '334'),
+    component: ComponentCreator('/', 'd2a'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'bae'),
+        component: ComponentCreator('/', '87a'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'ed6'),
+            component: ComponentCreator('/', 'db4'),
             routes: [
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
@@ -338,6 +338,12 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
+                path: '/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri',
+                component: ComponentCreator('/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri', 'b4d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
                 path: '/phan-he-phong-kham/dang-nhap-chon-phong-kham',
                 component: ComponentCreator('/phan-he-phong-kham/dang-nhap-chon-phong-kham', '3a2'),
                 exact: true,
@@ -394,12 +400,6 @@ export default [
               {
                 path: '/phan-he-phong-kham/xem-lich-su-dieu-tri',
                 component: ComponentCreator('/phan-he-phong-kham/xem-lich-su-dieu-tri', 'ce3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/xu-ly-kham-va-chan-doan',
-                component: ComponentCreator('/phan-he-phong-kham/xu-ly-kham-va-chan-doan', '25a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

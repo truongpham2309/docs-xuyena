@@ -5,17 +5,17 @@
       "plugin": "c141421f"
     }
   },
-  "/-334": {
+  "/-d2a": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-bae": {
+  "/-87a": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-ed6": {
+  "/-db4": {
     "__comp": "a94703ab"
   },
   "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2-9ca": {
@@ -230,6 +230,10 @@
     "__comp": "17896441",
     "content": "4595e172"
   },
+  "/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri-b4d": {
+    "__comp": "17896441",
+    "content": "524fd0cc"
+  },
   "/phan-he-phong-kham/dang-nhap-chon-phong-kham-3a2": {
     "__comp": "17896441",
     "content": "c64b9d35"
@@ -269,10 +273,6 @@
   "/phan-he-phong-kham/xem-lich-su-dieu-tri-ce3": {
     "__comp": "17896441",
     "content": "cb3634a2"
-  },
-  "/phan-he-phong-kham/xu-ly-kham-va-chan-doan-25a": {
-    "__comp": "17896441",
-    "content": "1d3ae02b"
   },
   "/phan-he-phong-kham/xu-tri-sau-kham-081": {
     "__comp": "17896441",
