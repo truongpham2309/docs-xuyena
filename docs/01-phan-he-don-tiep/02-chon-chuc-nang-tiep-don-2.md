@@ -11,7 +11,7 @@ sidebar_position: 2
 - Click vào nút Đăng ký thông tin bệnh nhân khám
 
 <div className="center-container">
-  <img src="/img/giao-dien-dang-ky-thong-tin-benh-nhan.jpg" alt="Đăng ký thông tin bệnh nhân khám" />
+  <img src="/img/dang-ky-thong-tin-benh-nhan-kham.png" alt="Đăng ký thông tin bệnh nhân khám" />
 </div>
 
 ### Dùng máy đọc mã vạch
@@ -72,26 +72,3 @@ Khi nhập đầy đủ thông tin của bệnh nhân sẽ hiển thị thẻ c�
   <img src="/img/chi-dinh-dich-vu.jpg" alt="Chỉ định dịch vụ" />
 </div>
 Chỉ định trực tiếp không cần nhập ICD chính và phụ
-
-## 4.	Chức năng Bệnh nhân: 
-Danh sách bệnh nhân
-Là chức năng chỉnh sửa bổ sung thông tin hồ sơ hành chính của bệnh nhân : Họ tên, tuổi, địa chỉ, số điện thoại, nghề nghiệp, đơn vị công tác, người thân ….
-
-## 5.	Cập nhật thẻ
-
-Là chức năng tìm kiếm để chỉnh sửa thông tin thẻ BHYT của bệnh nhân.
-## 6.	Chức năng Danh sách y lệnh:
-
-Là chức năng tra cứu, chỉnh sửa , xóa các yêu cầu dịch vụ do bộ phận tiếp đón tạo ra.
-## 7.	Chức năng Đổi phòng khám:
-
-Là chức năng để đổi lại phòng khám của yêu cầu khám đã đăng ký. (ví dụ: Khám ngoại tiết niệu ở phòng khám 1 => phòng khám 2)
-## 8.	Chức năng Hồ sơ điều trị:
-
-Là chức năng quan trọng của phần mềm. Hồ sơ điều trị là nơi tra cứu, tìm kiếm từng đợt điều trị của bệnh nhân, xem y bạ điện tử, bảng kê chi phí, lịch sử điều trị ..v..v
-## 9.	Chức năng Lịch sử điều trị:
-
-Là chức năng tra cứu lịch sử điều trị trên phần mềm của một hay nhiều bệnh nhân.
-## 10.	Chức năng Sửa yêu cầu khám:
-
-Là chức năng thay đổi yêu cầu khám của người bệnh (ví dụ Khám Nội => Khám ngoại)
