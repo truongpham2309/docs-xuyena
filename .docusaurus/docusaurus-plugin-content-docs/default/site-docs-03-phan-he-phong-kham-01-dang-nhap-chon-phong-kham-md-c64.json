@@ -1,7 +1,7 @@
 {
   "id": "phan-he-phong-kham/dang-nhap-chon-phong-kham",
   "title": "Đăng nhập, chọn phòng khám",
-  "description": "Nội dung...",
+  "description": "1. Giao diện và Đăng nhập",
   "source": "@site/docs/03-phan-he-phong-kham/01-dang-nhap-chon-phong-kham.md",
   "sourceDirName": "03-phan-he-phong-kham",
   "slug": "/phan-he-phong-kham/dang-nhap-chon-phong-kham",
@@ -18,8 +18,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "10. In lại phiếu khám",
-    "permalink": "/phan-he-don-tiep/in-lai-phieu-kham"
+    "title": "8. Chức năng sửa yêu cầu khám",
+    "permalink": "/phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham"
   },
   "next": {
     "title": "2. Màu sắc và biểu tượng",

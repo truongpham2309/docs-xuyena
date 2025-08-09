@@ -16,21 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-don-tiep/cac-canh-bao-khi-tiep-don",
-              "path": "/phan-he-don-tiep/cac-canh-bao-khi-tiep-don",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
-              "path": "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-don-tiep/chinh-sua-xoa-ho-so",
-              "path": "/phan-he-don-tiep/chinh-sua-xoa-ho-so",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "phan-he-don-tiep/chon-chuc-nang-tiep-don-2",
               "path": "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2",
               "sidebar": "tutorialSidebar"
@@ -56,13 +41,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
-              "path": "/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
+              "id": "phan-he-don-tiep/chuc-nang-lich-su-dieu-tri",
+              "path": "/phan-he-don-tiep/chuc-nang-lich-su-dieu-tri",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-don-tiep/in-lai-phieu-kham",
-              "path": "/phan-he-don-tiep/in-lai-phieu-kham",
+              "id": "phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham",
+              "path": "/phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
+              "path": "/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -9,34 +9,16 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '2c3'),
+    component: ComponentCreator('/', '9d1'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '300'),
+        component: ComponentCreator('/', '4e0'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '80f'),
+            component: ComponentCreator('/', '851'),
             routes: [
-              {
-                path: '/phan-he-don-tiep/cac-canh-bao-khi-tiep-don',
-                component: ComponentCreator('/phan-he-don-tiep/cac-canh-bao-khi-tiep-don', '409'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh',
-                component: ComponentCreator('/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh', 'a40'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-don-tiep/chinh-sua-xoa-ho-so',
-                component: ComponentCreator('/phan-he-don-tiep/chinh-sua-xoa-ho-so', '3a5'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
                 component: ComponentCreator('/phan-he-don-tiep/chon-chuc-nang-tiep-don-2', '9ca'),
@@ -68,14 +50,20 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don',
-                component: ComponentCreator('/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don', 'c8b'),
+                path: '/phan-he-don-tiep/chuc-nang-lich-su-dieu-tri',
+                component: ComponentCreator('/phan-he-don-tiep/chuc-nang-lich-su-dieu-tri', 'bb8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-don-tiep/in-lai-phieu-kham',
-                component: ComponentCreator('/phan-he-don-tiep/in-lai-phieu-kham', 'ef8'),
+                path: '/phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham',
+                component: ComponentCreator('/phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham', 'd65'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don',
+                component: ComponentCreator('/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don', 'c8b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -5,30 +5,18 @@
       "plugin": "c141421f"
     }
   },
-  "/-2c3": {
+  "/-9d1": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-300": {
+  "/-4e0": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-80f": {
+  "/-851": {
     "__comp": "a94703ab"
-  },
-  "/phan-he-don-tiep/cac-canh-bao-khi-tiep-don-409": {
-    "__comp": "17896441",
-    "content": "07d728ca"
-  },
-  "/phan-he-don-tiep/chinh-sua-thong-tin-hanh-chinh-a40": {
-    "__comp": "17896441",
-    "content": "985f2cbe"
-  },
-  "/phan-he-don-tiep/chinh-sua-xoa-ho-so-3a5": {
-    "__comp": "17896441",
-    "content": "0b9c20f0"
   },
   "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2-9ca": {
     "__comp": "17896441",
@@ -50,13 +38,17 @@
     "__comp": "17896441",
     "content": "349a04fc"
   },
+  "/phan-he-don-tiep/chuc-nang-lich-su-dieu-tri-bb8": {
+    "__comp": "17896441",
+    "content": "29dfbdb3"
+  },
+  "/phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham-d65": {
+    "__comp": "17896441",
+    "content": "4247aafc"
+  },
   "/phan-he-don-tiep/dang-nhap-chon-phong-tiep-don-c8b": {
     "__comp": "17896441",
     "content": "cc32c28c"
-  },
-  "/phan-he-don-tiep/in-lai-phieu-kham-ef8": {
-    "__comp": "17896441",
-    "content": "7cd696ec"
   },
   "/phan-he-duoc-vat-tu/bao-cao-duoc-e2e": {
     "__comp": "17896441",
