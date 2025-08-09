@@ -11,7 +11,7 @@ sidebar_position: 2
 - Click vào nút Đăng ký thông tin bệnh nhân khám
 
 <div className="center-container">
-  <img src="/img/dang-ky-thong-tin-benh-nhan-kham.png" alt="Đăng ký thông tin bệnh nhân khám" />
+  <img src="/img/giao-dien-dang-ky-thong-tin-benh-nhan.jpg" alt="Đăng ký thông tin bệnh nhân khám" />
 </div>
 
 ### Dùng máy đọc mã vạch
