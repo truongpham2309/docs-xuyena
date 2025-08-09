@@ -21,17 +21,20 @@ sidebar_position: 2
 <div className="center-container">
   <img src="/img/dung-may-doc-ma-vach.jpg" alt="Dùng máy đọc mã vạch" />
 </div>
+
 ### Dùng máy quét thẻ BHYT
 <div className="center-container">
   <img src="/img/dung-may-quet-the-bhyt.jpg" alt="Dùng máy quét thẻ BHYT" />
 </div>
+
 ### Lưu ý bệnh nhân BHYT có giấy giới thiệu, chuyển tuyến
 - Bệnh nhân giới thiệu sẽ phải nhập đầy đủ thông tin chuyển tuyến.
 <div className="center-container">
   <img src="/img/giao-dien-chuyen-tuyen.jpg" alt="Chức năng chuyển tuyến" />
 </div>
+
 ## 2.	Hướng dẫn chuyển đổi thông tin hành chánh từ 3 cấp sang 2 cấp:
-**Bước 1: **Tìm thông tin địa chỉ hành chánh 2 cấp mã Tỉnh, Xã mới ban hành.
+**Bước 1: ** Tìm thông tin địa chỉ hành chánh 2 cấp mã Tỉnh, Xã mới ban hành.
 -	Truy cập vào  website:  https://address-converter.io.vn/
 -	Nhập thông tin địa chỉ hành chánh 3 cấp cũ 
 <div className="center-container">
@@ -51,15 +54,23 @@ Nhập xong click chuột vào Chuyển đổi địa chỉ
   <img src="/img/chuyen-doi-hanh-chinh-tu-2-cap-sang-3-cap.jpg" alt="Chuyển đổi hành chính từ 2 cấp sang 3 cấp" />
 </div>
 -	Sau đó copy mã Tỉnh và mã Xã trên website vừa chuyễn đỗi vào từng ô tương ứng vào phần mềm HisPro. Ô địa chỉ thẻ BHYT sẽ tự động cập nhật địa chỉ hành chính.
+
 ## 3.	Check thông tin BN với cổng giám định BHYT:
 Khi nhập đầy đủ thông tin của bệnh nhân sẽ hiển thị thẻ có hợp lệ hay không:
-
+<div className="center-container">
+  <img src="/img/kiem-tra-thong-tin-tren-cong-giam-dinh.jpg" alt="Kiểm tra thông tin bệnh nhân với công giám đinh BHYT" />
+</div>
 - Nếu sai thông tin màn hình sẽ hiển thị thông báo cập nhật lại thông tin trên cổng thông tin
 - Người dùng “click” vào đồng ý để cập nhật.
+<div className="center-container">
+  <img src="/img/ket-qua-thong-tin-tren-cong-giam-dinh.jpg" alt="Kết quả thẻ hợp lệ" />
+</div>
 - Nếu hợp lệ sẽ hiện thị Thẻ hợp lệ. 
-- Sau đó sẽ sử dụng nút   để hoàn thành đăng ký 1 bệnh nhân.
-Lưu ý : Đối với bệnh nhân dịch vụ  trực tiếp không qua phòng khám sau ý nhấn   có thể sử dụng nút   để chỉ dịnh dịch vụ
-
+- Sau đó sẽ sử dụng nút **Lưu** hoặc **Ctrl + S** để hoàn thành đăng ký 1 bệnh nhân.
+**Lưu ý :** Đối với bệnh nhân dịch vụ trực tiếp không qua phòng khám sau khi nhấn nút **Lưu** hoặc **Ctrl + S**  có thể sử dụng nút nút **Chỉ định** hoặc **Ctrl + D** để chỉ định dịch vụ
+<div className="center-container">
+  <img src="/img/chi-dinh-dich-vu.jpg" alt="Chỉ định dịch vụ" />
+</div>
 Chỉ định trực tiếp không cần nhập ICD chính và phụ
 
 ## 4.	Chức năng Bệnh nhân: 
