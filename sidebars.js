@@ -14,7 +14,6 @@ const sidebars = {
         'phan-he-don-tiep/chuc-nang-ho-so-dieu-tri',
         'phan-he-don-tiep/chuc-nang-lich-su-dieu-tri',
         'phan-he-don-tiep/chuc-nang-sua-yeu-cau-kham',
-        'phan-he-don-tiep/chinh-sua-xoa-ho-so',
       ],
     },
     {

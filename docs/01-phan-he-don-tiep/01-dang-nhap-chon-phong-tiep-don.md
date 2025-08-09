@@ -18,5 +18,5 @@ Người dùng sẽ đăng nhập vào phần mềm bằng cách điền thông 
 Sau khi đăng nhập phần mềm, sẽ hiện giao diện chọn phòng tiếp đón. Người dùng chỉ cần "click" để chọn vào phòng cần tiếp đón.
 
 <div className="center-container">
-  <img src="/img/giao-dien-chon-phong.jpg" alt="Giao diện đăng nhập" />
+  <img src="/img/giao-dien-chon-phong.jpg" alt="Giao diện chọn phòng tiếp đón" />
 </div>
