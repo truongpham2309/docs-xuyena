@@ -111,8 +111,8 @@ const sidebars = {
         'phan-he-thu-ngan/mo-khoa-ho-so',
         'phan-he-thu-ngan/bao-cao-vien-phi',
       ],
-    },
-  ],
+    },*/
+  ],  
 };
-*/
+
 module.exports = sidebars;
