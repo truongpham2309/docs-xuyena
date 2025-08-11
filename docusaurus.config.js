@@ -83,7 +83,7 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [          
-          { to: 'https://truongit.net/hispro-xuyen-a#cuchi', label: 'Tải HisPro Củ Chi', position: 'left' },
+          { to: 'https://truongit.net/hispro-xuyen-a', label: 'Tải HisPro Củ Chi', position: 'left' },
           { to: 'https://truongit.net/hispro-xuyen-a#vinhlong', label: 'Tải HisPro Vĩnh Long', position: 'left' },
           { to: 'https://truongit.net/hispro-xuyen-a#tayninh', label: 'Tải HisPro Tây Ninh', position: 'left' },
           { to: 'https://truongit.net/hispro-xuyen-a#longan', label: 'Tải HisPro Long An', position: 'left' },

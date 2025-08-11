@@ -136,58 +136,13 @@
               "path": "/phan-he-duoc-vat-tu/y-nghia-thong-tin-thuoc-vat-tu"
             },
             {
-              "id": "phan-he-noi-tru/bien-ban-hoi-chan",
-              "path": "/phan-he-noi-tru/bien-ban-hoi-chan",
+              "id": "phan-he-noi-tru/dang-nhap-chon-buong-benh",
+              "path": "/phan-he-noi-tru/dang-nhap-chon-buong-benh",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-noi-tru/cac-chuc-nang-khac",
-              "path": "/phan-he-noi-tru/cac-chuc-nang-khac",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/cap-nhat-doi-tuong-benh-nhan",
-              "path": "/phan-he-noi-tru/cap-nhat-doi-tuong-benh-nhan",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/chi-dinh-dich-vu-ky-thuat",
-              "path": "/phan-he-noi-tru/chi-dinh-dich-vu-ky-thuat",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/chon-phong-lam-viec",
-              "path": "/phan-he-noi-tru/chon-phong-lam-viec",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/chuyen-khoa",
-              "path": "/phan-he-noi-tru/chuyen-khoa",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/cong-khai-dich-vu",
-              "path": "/phan-he-noi-tru/cong-khai-dich-vu",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau",
-              "path": "/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/ke-don-thuoc",
-              "path": "/phan-he-noi-tru/ke-don-thuoc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/ke-ngay-giuong",
-              "path": "/phan-he-noi-tru/ke-ngay-giuong",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/ke-vat-tu-hao-phi-pttt",
-              "path": "/phan-he-noi-tru/ke-vat-tu-hao-phi-pttt",
+              "id": "phan-he-noi-tru/giao-dien-buong-benh",
+              "path": "/phan-he-noi-tru/giao-dien-buong-benh",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -196,43 +151,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-noi-tru/lam-benh-an",
-              "path": "/phan-he-noi-tru/lam-benh-an",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/linh-hao-phi-khoa-phong",
-              "path": "/phan-he-noi-tru/linh-hao-phi-khoa-phong",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/man-hinh-buong-benh",
-              "path": "/phan-he-noi-tru/man-hinh-buong-benh",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/nhap-thong-tin-pttt",
-              "path": "/phan-he-noi-tru/nhap-thong-tin-pttt",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/quan-ly-thuoc-tu-truc",
-              "path": "/phan-he-noi-tru/quan-ly-thuoc-tu-truc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/quan-ly-y-lenh",
-              "path": "/phan-he-noi-tru/quan-ly-y-lenh",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/tao-phieu-tra",
-              "path": "/phan-he-noi-tru/tao-phieu-tra",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/tao-to-dieu-tri",
-              "path": "/phan-he-noi-tru/tao-to-dieu-tri",
+              "id": "phan-he-noi-tru/mot-so-loi-thuong-gap",
+              "path": "/phan-he-noi-tru/mot-so-loi-thuong-gap",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -241,13 +161,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-noi-tru/tong-hop-phieu-linh",
-              "path": "/phan-he-noi-tru/tong-hop-phieu-linh",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-noi-tru/xem-va-in-bang-ke",
-              "path": "/phan-he-noi-tru/xem-va-in-bang-ke",
+              "id": "phan-he-noi-tru/xu-ly-dieu-tri",
+              "path": "/phan-he-noi-tru/xu-ly-dieu-tri",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -286,38 +201,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/hen-kham-va-giay-to-bhxh",
-              "path": "/phan-he-phong-kham/hen-kham-va-giay-to-bhxh",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/mo-lai-ho-so",
-              "path": "/phan-he-phong-kham/mo-lai-ho-so",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/sua-xoa-chi-dinh-don-thuoc",
-              "path": "/phan-he-phong-kham/sua-xoa-chi-dinh-don-thuoc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/tao-mau-xu-ly-kham",
-              "path": "/phan-he-phong-kham/tao-mau-xu-ly-kham",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/xem-lich-su-dieu-tri",
-              "path": "/phan-he-phong-kham/xem-lich-su-dieu-tri",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "phan-he-phong-kham/xu-ly-kham",
               "path": "/phan-he-phong-kham/xu-ly-kham",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/xu-tri-sau-kham",
-              "path": "/phan-he-phong-kham/xu-tri-sau-kham",
               "sidebar": "tutorialSidebar"
             },
             {

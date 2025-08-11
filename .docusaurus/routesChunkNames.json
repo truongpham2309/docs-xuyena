@@ -5,17 +5,17 @@
       "plugin": "c141421f"
     }
   },
-  "/-b32": {
+  "/-66f": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-8e2": {
+  "/-6f8": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-cb7": {
+  "/-95c": {
     "__comp": "a94703ab"
   },
   "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2-9ca": {
@@ -130,97 +130,29 @@
     "__comp": "17896441",
     "content": "cf2b5c22"
   },
-  "/phan-he-noi-tru/bien-ban-hoi-chan-139": {
+  "/phan-he-noi-tru/dang-nhap-chon-buong-benh-979": {
     "__comp": "17896441",
-    "content": "06705bda"
+    "content": "7d9fdd16"
   },
-  "/phan-he-noi-tru/cac-chuc-nang-khac-af1": {
+  "/phan-he-noi-tru/giao-dien-buong-benh-288": {
     "__comp": "17896441",
-    "content": "9306115d"
+    "content": "dfc46da7"
   },
-  "/phan-he-noi-tru/cap-nhat-doi-tuong-benh-nhan-92d": {
+  "/phan-he-noi-tru/ket-thuc-dieu-tri-46f": {
     "__comp": "17896441",
-    "content": "c9f6c552"
+    "content": "7e89fb29"
   },
-  "/phan-he-noi-tru/chi-dinh-dich-vu-ky-thuat-506": {
+  "/phan-he-noi-tru/mot-so-loi-thuong-gap-4e0": {
     "__comp": "17896441",
-    "content": "c32a8f18"
-  },
-  "/phan-he-noi-tru/chon-phong-lam-viec-a0a": {
-    "__comp": "17896441",
-    "content": "d1760ffb"
-  },
-  "/phan-he-noi-tru/chuyen-khoa-c08": {
-    "__comp": "17896441",
-    "content": "6b592407"
-  },
-  "/phan-he-noi-tru/cong-khai-dich-vu-4a7": {
-    "__comp": "17896441",
-    "content": "dc1a031c"
-  },
-  "/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau-a33": {
-    "__comp": "17896441",
-    "content": "e6db149a"
-  },
-  "/phan-he-noi-tru/ke-don-thuoc-da9": {
-    "__comp": "17896441",
-    "content": "91045d48"
-  },
-  "/phan-he-noi-tru/ke-ngay-giuong-250": {
-    "__comp": "17896441",
-    "content": "95e1f97d"
-  },
-  "/phan-he-noi-tru/ke-vat-tu-hao-phi-pttt-c57": {
-    "__comp": "17896441",
-    "content": "fba7c257"
-  },
-  "/phan-he-noi-tru/ket-thuc-dieu-tri-328": {
-    "__comp": "17896441",
-    "content": "269c2651"
-  },
-  "/phan-he-noi-tru/lam-benh-an-c9c": {
-    "__comp": "17896441",
-    "content": "a8ddba92"
-  },
-  "/phan-he-noi-tru/linh-hao-phi-khoa-phong-3ee": {
-    "__comp": "17896441",
-    "content": "6ca3d3e6"
-  },
-  "/phan-he-noi-tru/man-hinh-buong-benh-d2e": {
-    "__comp": "17896441",
-    "content": "6e652ed4"
-  },
-  "/phan-he-noi-tru/nhap-thong-tin-pttt-667": {
-    "__comp": "17896441",
-    "content": "a69a9456"
-  },
-  "/phan-he-noi-tru/quan-ly-thuoc-tu-truc-e86": {
-    "__comp": "17896441",
-    "content": "85dd021b"
-  },
-  "/phan-he-noi-tru/quan-ly-y-lenh-b79": {
-    "__comp": "17896441",
-    "content": "9543241d"
-  },
-  "/phan-he-noi-tru/tao-phieu-tra-f9e": {
-    "__comp": "17896441",
-    "content": "cbc54ca4"
-  },
-  "/phan-he-noi-tru/tao-to-dieu-tri-e63": {
-    "__comp": "17896441",
-    "content": "a6e14bf2"
+    "content": "f15d14a4"
   },
   "/phan-he-noi-tru/tiep-nhan-benh-nhan-vao-khoa-ca1": {
     "__comp": "17896441",
     "content": "775b58ed"
   },
-  "/phan-he-noi-tru/tong-hop-phieu-linh-210": {
+  "/phan-he-noi-tru/xu-ly-dieu-tri-a51": {
     "__comp": "17896441",
-    "content": "8d5951eb"
-  },
-  "/phan-he-noi-tru/xem-va-in-bang-ke-6e7": {
-    "__comp": "17896441",
-    "content": "581c6e3d"
+    "content": "ccb2d054"
   },
   "/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh-083": {
     "__comp": "17896441",
@@ -250,33 +182,9 @@
     "__comp": "17896441",
     "content": "fb600610"
   },
-  "/phan-he-phong-kham/hen-kham-va-giay-to-bhxh-aa1": {
-    "__comp": "17896441",
-    "content": "69370569"
-  },
-  "/phan-he-phong-kham/mo-lai-ho-so-ddb": {
-    "__comp": "17896441",
-    "content": "ee697418"
-  },
-  "/phan-he-phong-kham/sua-xoa-chi-dinh-don-thuoc-f4f": {
-    "__comp": "17896441",
-    "content": "b2350193"
-  },
-  "/phan-he-phong-kham/tao-mau-xu-ly-kham-8f9": {
-    "__comp": "17896441",
-    "content": "c558a335"
-  },
-  "/phan-he-phong-kham/xem-lich-su-dieu-tri-ce3": {
-    "__comp": "17896441",
-    "content": "cb3634a2"
-  },
   "/phan-he-phong-kham/xu-ly-kham-bc6": {
     "__comp": "17896441",
     "content": "2d11a344"
-  },
-  "/phan-he-phong-kham/xu-tri-sau-kham-081": {
-    "__comp": "17896441",
-    "content": "dac3708c"
   },
   "/phan-he-thu-ngan/bao-cao-vien-phi-a42": {
     "__comp": "17896441",

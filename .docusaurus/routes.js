@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'b32'),
+    component: ComponentCreator('/', '66f'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '8e2'),
+        component: ComponentCreator('/', '6f8'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'cb7'),
+            component: ComponentCreator('/', '95c'),
             routes: [
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
@@ -168,122 +168,26 @@ export default [
                 exact: true
               },
               {
-                path: '/phan-he-noi-tru/bien-ban-hoi-chan',
-                component: ComponentCreator('/phan-he-noi-tru/bien-ban-hoi-chan', '139'),
+                path: '/phan-he-noi-tru/dang-nhap-chon-buong-benh',
+                component: ComponentCreator('/phan-he-noi-tru/dang-nhap-chon-buong-benh', '979'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-noi-tru/cac-chuc-nang-khac',
-                component: ComponentCreator('/phan-he-noi-tru/cac-chuc-nang-khac', 'af1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/cap-nhat-doi-tuong-benh-nhan',
-                component: ComponentCreator('/phan-he-noi-tru/cap-nhat-doi-tuong-benh-nhan', '92d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/chi-dinh-dich-vu-ky-thuat',
-                component: ComponentCreator('/phan-he-noi-tru/chi-dinh-dich-vu-ky-thuat', '506'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/chon-phong-lam-viec',
-                component: ComponentCreator('/phan-he-noi-tru/chon-phong-lam-viec', 'a0a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/chuyen-khoa',
-                component: ComponentCreator('/phan-he-noi-tru/chuyen-khoa', 'c08'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/cong-khai-dich-vu',
-                component: ComponentCreator('/phan-he-noi-tru/cong-khai-dich-vu', '4a7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau',
-                component: ComponentCreator('/phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau', 'a33'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/ke-don-thuoc',
-                component: ComponentCreator('/phan-he-noi-tru/ke-don-thuoc', 'da9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/ke-ngay-giuong',
-                component: ComponentCreator('/phan-he-noi-tru/ke-ngay-giuong', '250'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/ke-vat-tu-hao-phi-pttt',
-                component: ComponentCreator('/phan-he-noi-tru/ke-vat-tu-hao-phi-pttt', 'c57'),
+                path: '/phan-he-noi-tru/giao-dien-buong-benh',
+                component: ComponentCreator('/phan-he-noi-tru/giao-dien-buong-benh', '288'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/phan-he-noi-tru/ket-thuc-dieu-tri',
-                component: ComponentCreator('/phan-he-noi-tru/ket-thuc-dieu-tri', '328'),
+                component: ComponentCreator('/phan-he-noi-tru/ket-thuc-dieu-tri', '46f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-noi-tru/lam-benh-an',
-                component: ComponentCreator('/phan-he-noi-tru/lam-benh-an', 'c9c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/linh-hao-phi-khoa-phong',
-                component: ComponentCreator('/phan-he-noi-tru/linh-hao-phi-khoa-phong', '3ee'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/man-hinh-buong-benh',
-                component: ComponentCreator('/phan-he-noi-tru/man-hinh-buong-benh', 'd2e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/nhap-thong-tin-pttt',
-                component: ComponentCreator('/phan-he-noi-tru/nhap-thong-tin-pttt', '667'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/quan-ly-thuoc-tu-truc',
-                component: ComponentCreator('/phan-he-noi-tru/quan-ly-thuoc-tu-truc', 'e86'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/quan-ly-y-lenh',
-                component: ComponentCreator('/phan-he-noi-tru/quan-ly-y-lenh', 'b79'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/tao-phieu-tra',
-                component: ComponentCreator('/phan-he-noi-tru/tao-phieu-tra', 'f9e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/tao-to-dieu-tri',
-                component: ComponentCreator('/phan-he-noi-tru/tao-to-dieu-tri', 'e63'),
+                path: '/phan-he-noi-tru/mot-so-loi-thuong-gap',
+                component: ComponentCreator('/phan-he-noi-tru/mot-so-loi-thuong-gap', '4e0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -294,14 +198,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-noi-tru/tong-hop-phieu-linh',
-                component: ComponentCreator('/phan-he-noi-tru/tong-hop-phieu-linh', '210'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-noi-tru/xem-va-in-bang-ke',
-                component: ComponentCreator('/phan-he-noi-tru/xem-va-in-bang-ke', '6e7'),
+                path: '/phan-he-noi-tru/xu-ly-dieu-tri',
+                component: ComponentCreator('/phan-he-noi-tru/xu-ly-dieu-tri', 'a51'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -348,44 +246,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/hen-kham-va-giay-to-bhxh',
-                component: ComponentCreator('/phan-he-phong-kham/hen-kham-va-giay-to-bhxh', 'aa1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/mo-lai-ho-so',
-                component: ComponentCreator('/phan-he-phong-kham/mo-lai-ho-so', 'ddb'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/sua-xoa-chi-dinh-don-thuoc',
-                component: ComponentCreator('/phan-he-phong-kham/sua-xoa-chi-dinh-don-thuoc', 'f4f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/tao-mau-xu-ly-kham',
-                component: ComponentCreator('/phan-he-phong-kham/tao-mau-xu-ly-kham', '8f9'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/xem-lich-su-dieu-tri',
-                component: ComponentCreator('/phan-he-phong-kham/xem-lich-su-dieu-tri', 'ce3'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/phan-he-phong-kham/xu-ly-kham',
                 component: ComponentCreator('/phan-he-phong-kham/xu-ly-kham', 'bc6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/xu-tri-sau-kham',
-                component: ComponentCreator('/phan-he-phong-kham/xu-tri-sau-kham', '081'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
