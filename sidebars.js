@@ -34,8 +34,8 @@ const sidebars = {
       type: 'category',
       label: 'Phân hệ Nội Trú',
       items: [
-        'phan-he-noi-tru/dang-nhap-dang-xuat-doi-mat-khau',
-        'phan-he-noi-tru/chon-phong-lam-viec',
+        'phan-he-noi-tru/dang-nhap-chon-buong-benh',
+        'phan-he-noi-tru/giao-dien-buong-benh',
         'phan-he-noi-tru/tiep-nhan-benh-nhan-vao-khoa',
         'phan-he-noi-tru/tiep-nhan-benh-nhan-vao-khoa',
         'phan-he-noi-tru/xu-ly-dieu-tri',
