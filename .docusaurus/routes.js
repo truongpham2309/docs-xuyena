@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'd2a'),
+    component: ComponentCreator('/', '157'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '87a'),
+        component: ComponentCreator('/', 'ad1'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', 'db4'),
+            component: ComponentCreator('/', 'b43'),
             routes: [
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
@@ -326,12 +326,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/chi-dinh-can-lam-sang',
-                component: ComponentCreator('/phan-he-phong-kham/chi-dinh-can-lam-sang', 'd89'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh',
                 component: ComponentCreator('/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh', '083'),
                 exact: true,
@@ -340,6 +334,24 @@ export default [
               {
                 path: '/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri',
                 component: ComponentCreator('/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri', 'b4d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/phan-he-phong-kham/chuc-nang-lich-su-dieu-tri',
+                component: ComponentCreator('/phan-he-phong-kham/chuc-nang-lich-su-dieu-tri', '82b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/phan-he-phong-kham/chuc-nang-man-hinh-cho',
+                component: ComponentCreator('/phan-he-phong-kham/chuc-nang-man-hinh-cho', 'c9e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/phan-he-phong-kham/chuc-nang-sua-yeu-cau-kham',
+                component: ComponentCreator('/phan-he-phong-kham/chuc-nang-sua-yeu-cau-kham', '850'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -362,18 +374,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/in-lai-phieu-chi-dinh-don-thuoc',
-                component: ComponentCreator('/phan-he-phong-kham/in-lai-phieu-chi-dinh-don-thuoc', '6d4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/phan-he-phong-kham/ke-don-thuoc',
-                component: ComponentCreator('/phan-he-phong-kham/ke-don-thuoc', '5ad'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/phan-he-phong-kham/mo-lai-ho-so',
                 component: ComponentCreator('/phan-he-phong-kham/mo-lai-ho-so', 'ddb'),
                 exact: true,
@@ -392,14 +392,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/xem-ket-qua-can-lam-sang',
-                component: ComponentCreator('/phan-he-phong-kham/xem-ket-qua-can-lam-sang', 'a19'),
+                path: '/phan-he-phong-kham/xem-lich-su-dieu-tri',
+                component: ComponentCreator('/phan-he-phong-kham/xem-lich-su-dieu-tri', 'ce3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/phan-he-phong-kham/xem-lich-su-dieu-tri',
-                component: ComponentCreator('/phan-he-phong-kham/xem-lich-su-dieu-tri', 'ce3'),
+                path: '/phan-he-phong-kham/xu-ly-kham',
+                component: ComponentCreator('/phan-he-phong-kham/xu-ly-kham', 'bc6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

@@ -5,17 +5,17 @@
       "plugin": "c141421f"
     }
   },
-  "/-d2a": {
+  "/-157": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/-87a": {
+  "/-ad1": {
     "__comp": "a7bd4aaa",
     "__props": "22dd74f7"
   },
-  "/-db4": {
+  "/-b43": {
     "__comp": "a94703ab"
   },
   "/phan-he-don-tiep/chon-chuc-nang-tiep-don-2-9ca": {
@@ -222,10 +222,6 @@
     "__comp": "17896441",
     "content": "581c6e3d"
   },
-  "/phan-he-phong-kham/chi-dinh-can-lam-sang-d89": {
-    "__comp": "17896441",
-    "content": "24d15fe5"
-  },
   "/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh-083": {
     "__comp": "17896441",
     "content": "4595e172"
@@ -233,6 +229,18 @@
   "/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri-b4d": {
     "__comp": "17896441",
     "content": "524fd0cc"
+  },
+  "/phan-he-phong-kham/chuc-nang-lich-su-dieu-tri-82b": {
+    "__comp": "17896441",
+    "content": "a15b471b"
+  },
+  "/phan-he-phong-kham/chuc-nang-man-hinh-cho-c9e": {
+    "__comp": "17896441",
+    "content": "408c9075"
+  },
+  "/phan-he-phong-kham/chuc-nang-sua-yeu-cau-kham-850": {
+    "__comp": "17896441",
+    "content": "2492dbed"
   },
   "/phan-he-phong-kham/dang-nhap-chon-phong-kham-3a2": {
     "__comp": "17896441",
@@ -246,14 +254,6 @@
     "__comp": "17896441",
     "content": "69370569"
   },
-  "/phan-he-phong-kham/in-lai-phieu-chi-dinh-don-thuoc-6d4": {
-    "__comp": "17896441",
-    "content": "1a62b91a"
-  },
-  "/phan-he-phong-kham/ke-don-thuoc-5ad": {
-    "__comp": "17896441",
-    "content": "5c01a1a1"
-  },
   "/phan-he-phong-kham/mo-lai-ho-so-ddb": {
     "__comp": "17896441",
     "content": "ee697418"
@@ -266,13 +266,13 @@
     "__comp": "17896441",
     "content": "c558a335"
   },
-  "/phan-he-phong-kham/xem-ket-qua-can-lam-sang-a19": {
-    "__comp": "17896441",
-    "content": "8acd7f1b"
-  },
   "/phan-he-phong-kham/xem-lich-su-dieu-tri-ce3": {
     "__comp": "17896441",
     "content": "cb3634a2"
+  },
+  "/phan-he-phong-kham/xu-ly-kham-bc6": {
+    "__comp": "17896441",
+    "content": "2d11a344"
   },
   "/phan-he-phong-kham/xu-tri-sau-kham-081": {
     "__comp": "17896441",

@@ -271,11 +271,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/chi-dinh-can-lam-sang",
-              "path": "/phan-he-phong-kham/chi-dinh-can-lam-sang",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "phan-he-phong-kham/chuc-nang-danh-sach-y-lenh",
               "path": "/phan-he-phong-kham/chuc-nang-danh-sach-y-lenh",
               "sidebar": "tutorialSidebar"
@@ -283,6 +278,21 @@
             {
               "id": "phan-he-phong-kham/chuc-nang-ho-so-dieu-tri",
               "path": "/phan-he-phong-kham/chuc-nang-ho-so-dieu-tri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-phong-kham/chuc-nang-lich-su-dieu-tri",
+              "path": "/phan-he-phong-kham/chuc-nang-lich-su-dieu-tri",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-phong-kham/chuc-nang-man-hinh-cho",
+              "path": "/phan-he-phong-kham/chuc-nang-man-hinh-cho",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "phan-he-phong-kham/chuc-nang-sua-yeu-cau-kham",
+              "path": "/phan-he-phong-kham/chuc-nang-sua-yeu-cau-kham",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -301,16 +311,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/in-lai-phieu-chi-dinh-don-thuoc",
-              "path": "/phan-he-phong-kham/in-lai-phieu-chi-dinh-don-thuoc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "phan-he-phong-kham/ke-don-thuoc",
-              "path": "/phan-he-phong-kham/ke-don-thuoc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "phan-he-phong-kham/mo-lai-ho-so",
               "path": "/phan-he-phong-kham/mo-lai-ho-so",
               "sidebar": "tutorialSidebar"
@@ -326,13 +326,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/xem-ket-qua-can-lam-sang",
-              "path": "/phan-he-phong-kham/xem-ket-qua-can-lam-sang",
+              "id": "phan-he-phong-kham/xem-lich-su-dieu-tri",
+              "path": "/phan-he-phong-kham/xem-lich-su-dieu-tri",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "phan-he-phong-kham/xem-lich-su-dieu-tri",
-              "path": "/phan-he-phong-kham/xem-lich-su-dieu-tri",
+              "id": "phan-he-phong-kham/xu-ly-kham",
+              "path": "/phan-he-phong-kham/xu-ly-kham",
               "sidebar": "tutorialSidebar"
             },
             {

@@ -90,6 +90,8 @@ const sidebars = {
         'phan-he-duoc-vat-tu/xuat-khac',
         'phan-he-duoc-vat-tu/bao-cao-duoc',
       ],
+      collapsed: true,
+      collapsible: true,
     },
     {
       type: 'category',
@@ -111,6 +113,8 @@ const sidebars = {
         'phan-he-thu-ngan/mo-khoa-ho-so',
         'phan-he-thu-ngan/bao-cao-vien-phi',
       ],
+      collapsed: true,
+      collapsible: true,
     },
   ],
 };
