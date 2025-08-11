@@ -15,14 +15,5 @@
     "sidebar_label": "11. Xem bảng kê chi phí",
     "title": "Xem bảng kê chi phí của bệnh nhân",
     "sidebar_position": 11
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "10. Lịch sử giao dịch",
-    "permalink": "/phan-he-thu-ngan/lich-su-giao-dich"
-  },
-  "next": {
-    "title": "12. Hủy giao dịch",
-    "permalink": "/phan-he-thu-ngan/huy-giao-dich"
   }
 }

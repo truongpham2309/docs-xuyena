@@ -15,14 +15,5 @@
     "sidebar_label": "3. Tạo sổ biên lai, hóa đơn",
     "title": "Tạo sổ biên lai, hóa đơn",
     "sidebar_position": 3
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "2. Giới thiệu màn hình thu ngân",
-    "permalink": "/phan-he-thu-ngan/gioi-thieu-man-hinh-thu-ngan"
-  },
-  "next": {
-    "title": "4. Lọc và tìm kiếm bệnh nhân",
-    "permalink": "/phan-he-thu-ngan/tim-kiem-benh-nhan"
   }
 }

@@ -48,12 +48,23 @@ Sau khi click chuột vào **Kê đơn (F8)** sẽ xuất hiện màn hình kê 
 
 ## Xử trí Kết thúc khám
 
-Sau khi nhập hết các thông tin như khám và xử trí khám (nếu có) sau đó chúng ta phải Lưu lại thông tin (nếu không lưu thì các thông tin vừa nhập sẽ mất) ngoài ra sau khi Lưu chúng ta có thể In các loại phiếu: Phiếu khám vào viện, giấy ra viện, giấy hẹn khám,….
+Sau khi nhập hết các thông tin như khám và xử trí khám (nếu có) sau đó chúng ta phải Lưu lại thông tin (nếu không lưu thì các thông tin vừa nhập sẽ mất) ngoài ra sau khi Lưu chúng ta có thể In các loại phiếu: Phiếu khám vào viện, giấy ra viện, giấy hẹn khám,...
 
+<div className="center-container">
+  <img src="/img/xu-tri-ket-thuc-kham.jpg" alt="Xử trí Kết thúc khám" />
+</div>
 
 ## Xử trí Nhập viện
 
+<div className="center-container">
+  <img src="/img/xu-tri-nhap-vien.jpg" alt="Xử trí Nhập viện" />
+</div>
 
-## Xử trí Khám thêm
+## Xử trí khám thêm (chuyển phòng khám)
 
+<div className="center-container">
+  <img src="/img/xu-tri-kham-them.jpg" alt="Xử trí khám thêm (chuyển phòng khám)" />
+</div>
+
+**Lưu ý:** check vào Khám chính nếu phòng khám chuyển sang là phòng kết thúc khám cho BN.
 

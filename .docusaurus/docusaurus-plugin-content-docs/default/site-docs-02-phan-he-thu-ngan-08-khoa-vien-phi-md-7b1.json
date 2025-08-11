@@ -15,14 +15,5 @@
     "sidebar_label": "8. Khóa Viện phí",
     "title": "Khóa Viện phí",
     "sidebar_position": 8
-  },
-  "sidebar": "tutorialSidebar",
-  "previous": {
-    "title": "7. Thao tác thanh toán",
-    "permalink": "/phan-he-thu-ngan/thao-tac-thanh-toan"
-  },
-  "next": {
-    "title": "9. Duyệt, khóa BHYT",
-    "permalink": "/phan-he-thu-ngan/duyet-khoa-bao-hiem"
   }
 }
