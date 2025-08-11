@@ -75,7 +75,7 @@ export default {
       },
       "items": [
         {
-          "to": "https://truongit.net/hispro-xuyen-a#cuchi",
+          "to": "https://truongit.net/hispro-xuyen-a",
           "label": "Tải HisPro Củ Chi",
           "position": "left"
         },
