@@ -42,6 +42,13 @@ const sidebars = {
         'phan-he-noi-tru/mot-so-loi-thuong-gap',
       ],
     },
+    {
+      type: 'category',
+      label: 'Sử dụng vật tư tái sử dụng',
+      items: [
+        'su-dung-vat-tu-tai-su-dung',
+      ],
+    },
 /*    {
       type: 'category',
       label: 'Phân hệ Dược / Vật tư',
