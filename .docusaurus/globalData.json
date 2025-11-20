@@ -264,6 +264,11 @@
             {
               "id": "phan-he-thu-ngan/y-nghia-thong-tin-chi-tiet-vien-phi",
               "path": "/phan-he-thu-ngan/y-nghia-thong-tin-chi-tiet-vien-phi"
+            },
+            {
+              "id": "su-dung-vat-tu-tai-su-dung",
+              "path": "/su-dung-vat-tu-tai-su-dung",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],

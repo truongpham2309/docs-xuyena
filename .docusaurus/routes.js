@@ -9,15 +9,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '66f'),
+    component: ComponentCreator('/', 'f6d'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', '6f8'),
+        component: ComponentCreator('/', 'a41'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '95c'),
+            component: ComponentCreator('/', 'eca'),
             routes: [
               {
                 path: '/phan-he-don-tiep/chon-chuc-nang-tiep-don-2',
@@ -325,6 +325,12 @@ export default [
                 path: '/phan-he-thu-ngan/y-nghia-thong-tin-chi-tiet-vien-phi',
                 component: ComponentCreator('/phan-he-thu-ngan/y-nghia-thong-tin-chi-tiet-vien-phi', '761'),
                 exact: true
+              },
+              {
+                path: '/su-dung-vat-tu-tai-su-dung',
+                component: ComponentCreator('/su-dung-vat-tu-tai-su-dung', '325'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               },
               {
                 path: '/',
